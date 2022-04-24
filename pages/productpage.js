@@ -128,7 +128,7 @@ function productpage() {
             Add to Cart
           </button>
         </div>
-            <h1 className="text-center=">Description:</h1>
+            <h1 className="text-center">Description:</h1>
         <div className="text-center opacity-80 sm:text-[25px] xl:mx-0 xl:text-base lg:mx-20 mx-10 mt-5">
           
           <p>
