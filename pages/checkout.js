@@ -3,7 +3,7 @@ import React from 'react'
 
 function checkout() {
   return (
-    <div className='h-screen text-[40px] pt-20 mx-20 text-center opacity-75'>
+    <div className=' text-[40px] pt-20 mx-5 lg:mx-20 text-center opacity-75'>
         Thank you for giving me the opportunity to work with you, I hope you enjoyed the time spent checking out my project. Please dont hesitate to contact me if you have any questions. I am available anytime. If you want to visit my portfolio to check out my other projects I would greatly appreciate it.
         <br />
         <a href='https://lucky-gumption-35c07e.netlify.app/' target="_bank">
